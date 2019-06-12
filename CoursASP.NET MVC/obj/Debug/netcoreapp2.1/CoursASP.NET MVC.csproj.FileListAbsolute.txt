@@ -1,0 +1,32 @@
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\CoursASP.NET MVC.csprojAssemblyReference.cache
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\CoursASP.NET MVC.csproj.CoreCompileInputs.cache
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\CoursASP.NET MVC.RazorAssemblyInfo.cache
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\CoursASP.NET MVC.RazorAssemblyInfo.cs
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\CoursASP.NET MVC.AssemblyInfoInputs.cache
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\CoursASP.NET MVC.AssemblyInfo.cs
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\bin\Debug\netcoreapp2.1\CoursASP.NET MVC.deps.json
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\bin\Debug\netcoreapp2.1\CoursASP.NET MVC.runtimeconfig.json
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\bin\Debug\netcoreapp2.1\CoursASP.NET MVC.runtimeconfig.dev.json
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\bin\Debug\netcoreapp2.1\CoursASP.NET MVC.dll
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\bin\Debug\netcoreapp2.1\CoursASP.NET MVC.pdb
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\bin\Debug\netcoreapp2.1\CoursASP.NET MVC.Views.dll
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\bin\Debug\netcoreapp2.1\CoursASP.NET MVC.Views.pdb
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\CoursASP.NET MVC.TagHelpers.input.cache
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\CoursASP.NET MVC.TagHelpers.output.cache
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\CoursASP.NET MVC.RazorCoreGenerate.cache
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\CoursASP.NET MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\CoursASP.NET MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\CoursASP.NET MVC.Views.pdb
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\CoursASP.NET MVC.dll
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\CoursASP.NET MVC.pdb
+C:\Users\Rémi Yanbuaban\Documents\Cours\Cours C#\CoursASP.NET MVC\CoursASP.NET MVC\obj\Debug\netcoreapp2.1\CoursASP.NET MVC.csproj.CopyComplete
